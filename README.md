@@ -3,7 +3,7 @@ This repository hosts source codes and best models reported in the manuscript 'A
 Image-Based Plant Phenotyping'.
 
 ## Getting Started
-1. Clone or download the repository. Dataset for images and CSV file available on [Zenodo]().
+1. Clone or download the repository. Dataset for images and CSV file available on [Zenodo](https://doi.org/10.5281/zenodo.3952422).
 Please place them into folder named 'Data'.
 2. You may execute the python scripts in a terminal or interactively in IPython/IDE. 
 3. Best AutoKeras models in the paper are located in the 'Models' folder. Each model is saved in a single folder, 
